@@ -56,6 +56,11 @@ DATABASES = {
 }
 ````
 
+# Queryset
+````
+https://docs.djangoproject.com/fr/2.2/ref/models/querysets/
+````
+
 # Importation des modules
 
 ```
